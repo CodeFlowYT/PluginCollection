@@ -316,5 +316,11 @@
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
 		}
+		{
+			"name": "SARanks",
+			"desc": "Best Rank Plugin",
+			"jarName": "SARanks.jar",
+			"configName": "SARanks"
+		}
 	]
 }
